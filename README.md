@@ -1,5 +1,12 @@
 # test
 ## test13243
-### dddddd
-          
-*ddddddd      
+
+
+
+```c++
+for(int a=0;a<10:++a)
+{
+std::cout<<a;
+}
+```
+dd
